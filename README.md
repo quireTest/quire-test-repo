@@ -1,1 +1,1 @@
-# quire-test-repo
+This is a repository for integration tests.
